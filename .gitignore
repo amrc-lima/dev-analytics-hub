@@ -1,0 +1,12 @@
+# Dependencies
+/node_modules
+
+# Environment variables
+.env
+
+# Pasta de uploads do servidor
+/server/uploads
+
+# Arquivos de build do Next.js
+/client/.next/
+/client/out/
